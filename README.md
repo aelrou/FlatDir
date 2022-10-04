@@ -1,2 +1,2 @@
 # FlatDir
-File deduplicator and directory flattener
+Directory flattener and file deduplicator
